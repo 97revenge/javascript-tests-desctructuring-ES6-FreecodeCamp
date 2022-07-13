@@ -1,18 +1,18 @@
-# Usar atribuição de desestruturação com o parâmetro rest para reatribuir elementos de array🏴
+# Usar atribuição de desestruturação para passar um objeto como parâmetro de uma função🏴
 
-### Use atribuição de desestruturação com o parâmetro rest para executar Array.prototype.slice() de forma eficaz para que arr seja um sub array do array original source com os dois primeiros elementos omitidos.
+### Use atribuição de desestruturação dentro do argumento para a função half para enviar apenas max e min para dentro da função.
 
 `RESULTADO EM index.js`
 
 # Tests 🏴
 
-- > #### arr deve ser [3,4,5,6,7,8,9,10]✅
-- > #### source deve ser [1,2,3,4,5,6,7,8,9,10]✅
-- > #### Array.slice() não deve ser usado.✅
-- > #### Desestruturação na list deve ser usada.✅
+- > #### stats deve ser um object.
+- > #### half(stats) deve ser 28.015
+- > #### Desestruturação deve ser usado.
+- > #### O parâmetro desestruturado deve ser usado.
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mqvbon)
 
-### Link do exercicio : `https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements `
+### Link do exercicio : `https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters `
 
-###### _RESULTADO_ : teste bastante simples, nescessario apenas omitir os 2 primeiros numeros , entao vamos entregar `[, , ...arr]` para a variavel `source` .
+###### _RESULTADO_ :
