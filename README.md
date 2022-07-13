@@ -1,17 +1,18 @@
-# Usar atribuição de desestruturação para atribuir variáveis a partir de arrays🏴
+# Usar atribuição de desestruturação com o parâmetro rest para reatribuir elementos de array🏴
 
-### Use atribuição de desestruturação para trocar os valores de a e b para que a receba os valores armazenados em b e b recebe os valores armazenados em a.
+### Use atribuição de desestruturação com o parâmetro rest para executar Array.prototype.slice() de forma eficaz para que arr seja um sub array do array original source com os dois primeiros elementos omitidos.
 
 `RESULTADO EM index.js`
 
 # Tests 🏴
 
-- > #### O valor de a deve ser 6, após a troca.✅
-- > #### O valor de b deve ser 8, após a troca.✅
-- > #### Você deve usar desestruturação de array para trocar a e b.✅
+- > #### Aguardando:arr deve ser [3,4,5,6,7,8,9,10]
+- > #### Aguardando:source deve ser [1,2,3,4,5,6,7,8,9,10]
+- > #### Aguardando:Array.slice() não deve ser usado.
+- > #### Aguardando:Desestruturação na list deve ser usada.
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mqvbon)
 
-### Link do exercicio : `https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays `
+### Link do exercicio : `https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements `
 
-###### _RESULTADO_ : " já que as variaveis já foram declaradas , é nescessario apenas destruturar em forma de array `[a, b] = [8, 6];` "
+###### _RESULTADO_ :
