@@ -4,18 +4,14 @@ const localForecast = {
   tomorrow: { low: 68, high: 80 },
 };
 
+const { yesterday, today, tomorrow } = localForecast;
 
-//  const lowToday = LOCAL_FORECAST.today.low;
-//  const highToday = LOCAL_FORECAST.today.high;
+const {
+  today: { low: lowToday, high: highToday },
+} = localForecast;
 
+console.log(today);
 
-  const {yesterday, today, tomorrow } = localForecast;
-
-
- const {yesterday: lowToday , tomorrow: highTomorrow} = localStorage ; 
- 
- 
- console.log(yesterday);
 
 
 
@@ -26,9 +22,6 @@ const localForecast = {
 
 // const{} = lowToday;
 // const{} = HighToday;
-
-
-
 
 // Altere apenas o código acima desta linha
 
@@ -42,3 +35,6 @@ const localForecast = {
 
 // const { yesterday: { today.low }} = lowToday;
 // const {tomorrow: {localForecast.today.high}} = highToday;
+
+//  const lowToday = LOCAL_FORECAST.today.low;
+//  const highToday = LOCAL_FORECAST.today.high;

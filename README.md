@@ -7,14 +7,12 @@
 # Tests 🏴
 
 - > #### Você deve remover a sintaxe de atribuição do ES5. ✅
-- > #### Você deve usar desestruturação para criar a variável lowToday.
-- > #### Aguardando:Você deve usar desestruturação para criar a variável highToday.
-- > #### lowToday deve ser igual a 64 e highToday deve ser igual a 77. 
+- > #### Você deve usar desestruturação para criar a variável lowToday. ✅ 
+- > #### Aguardando:Você deve usar desestruturação para criar a variável highToday.✅ 
+- > #### lowToday deve ser igual a 64 e highToday deve ser igual a 77.✅ 
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mqvbon)
 
 ### Link do exercicio : `https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects `
 
-
-
-
+###### _RESULTADO_ : " alguns casos de usos trazem o resultado `undefined` quando trabalhamos com `.this` ou apenas `.` para buscarmos informações em objetos. desestruturação para atribuir variáveis dá propriedade de variaveis a componentes em objetos . "
