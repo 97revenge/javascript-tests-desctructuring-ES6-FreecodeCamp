@@ -6,13 +6,12 @@
 
 # Tests 🏴
 
-- > #### O valor de a deve ser 6, após a troca.
-- > #### O valor de b deve ser 8, após a troca.
-- > #### Você deve usar desestruturação de array para trocar a e b.
-
+- > #### O valor de a deve ser 6, após a troca.✅
+- > #### O valor de b deve ser 8, após a troca.✅
+- > #### Você deve usar desestruturação de array para trocar a e b.✅
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mqvbon)
 
 ### Link do exercicio : `https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays `
 
-###### _RESULTADO_ : 
+###### _RESULTADO_ : " já que as variaveis já foram declaradas , é nescessario apenas destruturar em forma de array `[a, b] = [8, 6];` "

@@ -1,7 +1,7 @@
 let a = 8,
   b = 6;
 
-[a, b] = [8, 6];
+[a, b] = [b, a];
 
 console.log(a, b);
 
@@ -20,3 +20,5 @@ console.log(a, b);
 // }
 
 // swipeLetters(2, 5);
+
+//  ESTE RESULTADO TAMBEM TRAZ O MESMO VALOR (☞ﾟヮﾟ)☞ [a, b] = [8, 6];
