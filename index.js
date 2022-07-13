@@ -1,22 +1,16 @@
-const localForecast = {
+const localforecast = {
   yesterday: { low: 61, high: 75 },
   today: { low: 64, high: 77 },
   tomorrow: { low: 68, high: 80 },
 };
 
-const { yesterday, today, tomorrow } = localForecast;
+const { yesterday, today, tomorrow } = localforecast;
 
 const {
   today: { low: lowToday, high: highToday },
-} = localForecast;
+} = localforecast;
 
 console.log(today);
-
-
-
-
-
-
 
 // const {yesterday: {low , high}) = localForecast;
 
