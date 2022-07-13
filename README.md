@@ -7,9 +7,9 @@
 # Tests 🏴
 
 - > #### Você deve remover a sintaxe de atribuição do ES5. ✅
-- > #### Você deve usar desestruturação para criar a variável lowToday. ✅ 
-- > #### Aguardando:Você deve usar desestruturação para criar a variável highToday.✅ 
-- > #### lowToday deve ser igual a 64 e highToday deve ser igual a 77.✅ 
+- > #### Você deve usar desestruturação para criar a variável lowToday. ✅
+- > #### Aguardando:Você deve usar desestruturação para criar a variável highToday.✅
+- > #### lowToday deve ser igual a 64 e highToday deve ser igual a 77.✅
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mqvbon)
 
