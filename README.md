@@ -6,10 +6,10 @@
 
 # Tests 🏴
 
-- > #### stats deve ser um object.
+- > #### stats deve ser um object. ✅
 - > #### half(stats) deve ser 28.015
-- > #### Desestruturação deve ser usado.
-- > #### O parâmetro desestruturado deve ser usado.
+- > #### Desestruturação deve ser usado. ✅
+- > #### O parâmetro desestruturado deve ser usado. ✅
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mqvbon)
 
