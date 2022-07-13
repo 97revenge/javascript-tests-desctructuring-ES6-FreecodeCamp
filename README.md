@@ -1,6 +1,6 @@
 # Atribuição via desestruturação 🏴
 
-### _"contribuindo nos meus estudos, percebi que meus estudos com FreeCodeCamp sao menos densos se eu trabalho com outros editores e tambem posso dispor do meu aprendizado como repositório no Github. Vou fazer pequenos repositorios com cada assunto referente."
+### _"contribuindo nos meus estudos, percebi que meus estudos com FreeCodeCamp sao menos densos se eu trabalho com outros editores e tambem posso dispor do meu aprendizado como repositório no Github. Vou fazer pequenos repositorios com cada assunto referente."_ 
 
 `RESULTADO EM index.js`
 
