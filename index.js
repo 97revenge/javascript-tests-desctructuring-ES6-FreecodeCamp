@@ -8,11 +8,18 @@ const stats = {
 };
 
 
-const {max, min} = stats  ; 
-const half = ({max , min}) => { max, min / 2.0};
 
 
-console.log(half)
+const stats = ({max, min, ...avegare}) => {}
+
+
+
+
+
+const half ; 
+
+
+
 
 
 
