@@ -8,20 +8,28 @@ const stats = {
 };
 
 
+const {max, min} = stats;
 
-
-const stats = ({max, min, ...avegare}) => {}
-
-
-
-
-
-const half ; 
+const half = () => (max + min) / 2.0; 
 
 
 
 
 
+
+
+
+
+console.log();
 
 // BASE DE TESTES ANTIGOS :
 // const half = (stats) => (stats.max, stats.min) / 2.0 ;
+
+
+
+
+
+// const {max, min} = stats;
+
+
+// // Altere apenas o código acima desta linha
