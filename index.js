@@ -7,29 +7,17 @@ const stats = {
   avegare: 35.85,
 };
 
+const { max, min } = stats; // ppela minha leitura , essa linha é importante porque aqui eu estou desestruturando realmente o objeto ...
 
-const {max, min} = stats;
+const half = ({ max, min }) => {
+  (max, min) / 2;
+}; // e aqui eu estou passando a desestruturacao diretamente para os parametros da funcao anonima half .
 
-const half = () => (max + min) / 2.0; 
-
-
-
-
-
-
-
-
-
-console.log();
+console.log(half(max, min));
 
 // BASE DE TESTES ANTIGOS :
 // const half = (stats) => (stats.max, stats.min) / 2.0 ;
 
-
-
-
-
 // const {max, min} = stats;
-
 
 // // Altere apenas o código acima desta linha
